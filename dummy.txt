@@ -1,2 +1,3 @@
 Hello world
 I've come to life
+I must live
